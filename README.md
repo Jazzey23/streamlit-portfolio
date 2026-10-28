@@ -1,0 +1,1 @@
+This project is a personal autobiography and portfolio app built with Streamlit. It shares my background and milestones, showcases my public GitHub projects, and highlights my interests through Steam gaming activity and Spotify listening favorites, with a simple contact form that demonstrates input validation without sending messages.

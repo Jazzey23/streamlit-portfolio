@@ -1,0 +1,17 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+secrets.toml
+secret.toml
+.env
+.env.*
+*.pem
+*.key
+.agents/
+.codex/
+.aws/
+.DS_Store
+
+.cache
+.cache-*
